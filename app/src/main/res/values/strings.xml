@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogApi</string>
+    <string name="buscador_de_imagenes_de_perros">Buscador de imagenes de perros</string>
+</resources>
